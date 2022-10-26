@@ -2,6 +2,7 @@
   "name": "joker",
   "version": "1.0.0",
   "description": "just joker",
+  "type":"module",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
