@@ -1,0 +1,22 @@
+{
+  "name": "joker",
+  "version": "1.0.0",
+  "description": "just joker",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitAji/joker.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Ajee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitAji/joker/issues"
+  },
+  "homepage": "https://github.com/gitAji/joker#readme"
+}
