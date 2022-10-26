@@ -1,6 +1,6 @@
 {
   "name": "joker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "just joker",
   "type": "module",
   "main": "index.js",
@@ -23,5 +23,4 @@
   "dependencies": {
     "one-liner-joke": "^1.2.2"
   }
-  
 }
