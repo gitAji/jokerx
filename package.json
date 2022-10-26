@@ -2,7 +2,7 @@
   "name": "joker",
   "version": "1.0.0",
   "description": "just joker",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gitAji/joker/issues"
   },
-  "homepage": "https://github.com/gitAji/joker#readme"
+  "homepage": "https://github.com/gitAji/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
